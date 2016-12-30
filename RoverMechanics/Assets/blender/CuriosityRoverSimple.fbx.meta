@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 89ad3be87bc29824db1f5152cdd19c85
+timeCreated: 1483062631
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: body-small
+    100004: Bone
+    100006: Bone.001
+    100008: Bone.001_end
+    100010: Bone.002
+    100012: Bone.002_end
+    100014: Bone.003
+    100016: Bone.003_end
+    100018: Bone_end
+    100020: chemcam-small
+    100022: //RootNode
+    100024: legs-left
+    100026: legs-right
+    100028: lower-robotic-arm
+    100030: mahli-apxs-small
+    100032: upper-robotic-arm
+    100034: wheel-small
+    100036: wheel-small.001
+    100038: wheel-small.001_MeshPart0
+    100040: wheel-small.001_MeshPart1
+    100042: wheel-small.002
+    100044: wheel-small.002_MeshPart0
+    100046: wheel-small.002_MeshPart1
+    100048: wheel-small.003
+    100050: wheel-small.003_MeshPart0
+    100052: wheel-small.003_MeshPart1
+    100054: wheel-small_MeshPart0
+    100056: wheel-small_MeshPart1
+    100058: WheelBoneBL
+    100060: WheelBoneBR
+    100062: WheelBoneTL
+    100064: WheelBoneTR
+    100066: WheelDirectorTL
+    100068: WheelDirectorTL_end
+    100070: WheelDirectorTR
+    100072: WheelDirectorTR_end
+    100074: WheelsDirector
+    400000: Body
+    400002: body-small
+    400004: Bone
+    400006: Bone.001
+    400008: Bone.001_end
+    400010: Bone.002
+    400012: Bone.002_end
+    400014: Bone.003
+    400016: Bone.003_end
+    400018: Bone_end
+    400020: chemcam-small
+    400022: //RootNode
+    400024: legs-left
+    400026: legs-right
+    400028: lower-robotic-arm
+    400030: mahli-apxs-small
+    400032: upper-robotic-arm
+    400034: wheel-small
+    400036: wheel-small.001
+    400038: wheel-small.001_MeshPart0
+    400040: wheel-small.001_MeshPart1
+    400042: wheel-small.002
+    400044: wheel-small.002_MeshPart0
+    400046: wheel-small.002_MeshPart1
+    400048: wheel-small.003
+    400050: wheel-small.003_MeshPart0
+    400052: wheel-small.003_MeshPart1
+    400054: wheel-small_MeshPart0
+    400056: wheel-small_MeshPart1
+    400058: WheelBoneBL
+    400060: WheelBoneBR
+    400062: WheelBoneTL
+    400064: WheelBoneTR
+    400066: WheelDirectorTL
+    400068: WheelDirectorTL_end
+    400070: WheelDirectorTR
+    400072: WheelDirectorTR_end
+    400074: WheelsDirector
+    2300000: body-small
+    2300002: chemcam-small
+    2300004: legs-left
+    2300006: legs-right
+    2300008: lower-robotic-arm
+    2300010: mahli-apxs-small
+    2300012: upper-robotic-arm
+    2300014: wheel-small.001_MeshPart0
+    2300016: wheel-small.001_MeshPart1
+    2300018: wheel-small.002_MeshPart0
+    2300020: wheel-small.002_MeshPart1
+    2300022: wheel-small.003_MeshPart0
+    2300024: wheel-small.003_MeshPart1
+    2300026: wheel-small_MeshPart0
+    2300028: wheel-small_MeshPart1
+    3300000: body-small
+    3300002: chemcam-small
+    3300004: legs-left
+    3300006: legs-right
+    3300008: lower-robotic-arm
+    3300010: mahli-apxs-small
+    3300012: upper-robotic-arm
+    3300014: wheel-small.001_MeshPart0
+    3300016: wheel-small.001_MeshPart1
+    3300018: wheel-small.002_MeshPart0
+    3300020: wheel-small.002_MeshPart1
+    3300022: wheel-small.003_MeshPart0
+    3300024: wheel-small.003_MeshPart1
+    3300026: wheel-small_MeshPart0
+    3300028: wheel-small_MeshPart1
+    4300000: upper-robotic-arm
+    4300002: mahli-apxs-small
+    4300004: lower-robotic-arm
+    4300006: legs-right
+    4300008: legs-left
+    4300010: chemcam-small
+    4300012: body-small
+    4300014: wheel-small.003_MeshPart0
+    4300016: wheel-small.003_MeshPart1
+    4300018: wheel-small.002_MeshPart0
+    4300020: wheel-small.002_MeshPart1
+    4300022: wheel-small_MeshPart0
+    4300024: wheel-small_MeshPart1
+    4300026: wheel-small.001_MeshPart0
+    4300028: wheel-small.001_MeshPart1
+    7400000: Armature|Backward
+    7400002: Armature|Forward
+    7400004: Armature|Idle
+    7400006: Armature|Left
+    7400008: Armature|Right
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
